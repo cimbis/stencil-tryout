@@ -1,0 +1,10 @@
+{
+  "name": "button-react",
+  "version": "1.0.0",
+  "main": "src/components/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "react": "16",
+    "react-dom": "16"
+  }
+}
